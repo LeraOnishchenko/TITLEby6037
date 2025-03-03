@@ -1,0 +1,323 @@
+[
+  {
+    "id": 1,
+    "text": "What’d you like our stylists to focus on?",
+    "subText": "We offer services via live-chat mode.",
+    "numberOfColumns": 1,
+    "screenName": "Lifestyle & Interests",
+    "minSelection": 1,
+    "multiSelect": true,
+    "options": [
+      {
+        "id": "a72e6f5f-7b51-45bc-a9d7-193c45785881",
+        "text": "Reinvent Wardrobe",
+        "subText": "to discover fresh outfit ideas",
+        "image": null,
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "f45bfe53-1103-4452-8c81-539ad726e9bd",
+        "text": "Define Color Palette",
+        "subText": "to enhance my natural features",
+        "image": null,
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "c36874e0-52d3-48bc-9df3-22cb41906d70",
+        "text": "Create a Seasonal Capsule",
+        "subText": "to curate effortless and elegant looks",
+        "image": null,
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "66ac8fc5-c708-4a21-bc99-8cc27ca719fa",
+        "text": "Define My Style",
+        "subText": "to discover my signature look",
+        "image": null,
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "4526a564-45e6-47f4-a208-03a25b41121b",
+        "text": "Create an outfit for an event",
+        "subText": "to own a spotlight wherever you go",
+        "image": null,
+        "color": null,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "text": "Which style best represents you?",
+    "subText": null,
+    "numberOfColumns": 2,
+    "screenName": "Style preferences",
+    "minSelection": 1,
+    "multiSelect": false,
+    "options": [
+      {
+        "id": "2642ce5c-465f-4766-94f3-c3e95d0de726",
+        "text": "Casual",
+        "subText": null,
+        "image": "https://s3-alpha-sig.figma.com/img/b7d5/ebe3/68d878f3c83fcebdf633ae29047705c9?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=d1r2PsFwbJ78tk7JNB~BffVks-vTR4bSSgkSa-3QEqBcX2Wdlkp8PC05BmolQN25MnzUzMGQEHopPMzHbqhsk6GwbP0z-mF~zMggY4Ru9nKC85gyDh~JVNDiQ16mP~15NhD0F6rYASsBS7daObQHsURKQs2WHFHdvIL9fTE9o-RgXZGOrpt1GiE8GaNWDndmBcF0IIaFCTuMEaBxgZbRGbu3Ltzu6-2V9n97dxBh~MsPl2EzzTXJP1GCJIBOaNyjODCIORz3fxd3Qrkl6lB6l7vSUiuE8kFJJqM0c58G4ZNc5idZNylD7fJ8FPMUkK4pTPcZRybF6GYRmZyv9wWZyA__",
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "2b37584d-dc7a-49e4-95bd-38459d1cb17b",
+        "text": "Boho",
+        "subText": null,
+        "image": "https://s3-alpha-sig.figma.com/img/232a/fe70/1acd416f0bebdcd0970338653b905c0a?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=pHX9K7tuZzaxwgf5n~LG1~pbQsEdhJ1RhcqhxdqLNJGr5nRHs6HwOHZmhbKEwymSY88xIcOX8xW5MAFPERO4Zm8-nFljfEZNqFj1jtntOzNVDaqvrRkmS569ICqr0TQFsN6qBts5jmaOOiKg1n7xcS4gfN7uLvWAUfkQT1fO-JE6-8nRDJAWoTyT6Ex10Eug7czx~5xbT7t4YdOHnJR3TCEhl1Wi-bmxyORihWC2ucPUWSCaErRZmwfMoG9LaIk9wKgB8aZMgYvczSqGJUL6EbXojl3hQ5aETf8MLw6OvHBQ5FUSshhiFEbhDPm~tgWYsdVV2IojCpKKS6WuEhbwJA__",
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "09f720df-8519-4a76-b39c-c2a0dca51cb7",
+        "text": "Classy",
+        "subText": null,
+        "image": "https://s3-alpha-sig.figma.com/img/e17b/f50a/f473769aad0f6d86013d115cb5f89f81?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=eQf7FBkoPA85FSzoWpAyaj1v7L8urozg3lXq0VoZDXDuVfqP3JAAid01dHRjhXgrCI-gNy1LIjVun7acemWDwhoajAzFlVcXI7IgT8p1R4x4Dh2OMbekCXdZI9rK2QqoNwewWWQUZfkMWWYO~qOEZMpR4iiMCnKhtNrbZnqBdi-xIxKup78mclCcdw2rTOrOWAIntXQPGfwgKHLEPZ1Khi1q8EWrh005g562IlmcDc7AxIuLiHC6YrAHF3re4A3OF2-UTFwF5fbPoq6NCJ0aPLmwrbXL~MoSqEobmyNng-bCZ3-USyBnE3Knb0GufCtFsIKqIdlu7OZ~iQ~VJtOApQ__",
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "4f8f50e4-47ff-4568-a67a-8f15cba0693f",
+        "text": "Ladylike",
+        "subText": null,
+        "image": "https://s3-alpha-sig.figma.com/img/232a/fe70/1acd416f0bebdcd0970338653b905c0a?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=pHX9K7tuZzaxwgf5n~LG1~pbQsEdhJ1RhcqhxdqLNJGr5nRHs6HwOHZmhbKEwymSY88xIcOX8xW5MAFPERO4Zm8-nFljfEZNqFj1jtntOzNVDaqvrRkmS569ICqr0TQFsN6qBts5jmaOOiKg1n7xcS4gfN7uLvWAUfkQT1fO-JE6-8nRDJAWoTyT6Ex10Eug7czx~5xbT7t4YdOHnJR3TCEhl1Wi-bmxyORihWC2ucPUWSCaErRZmwfMoG9LaIk9wKgB8aZMgYvczSqGJUL6EbXojl3hQ5aETf8MLw6OvHBQ5FUSshhiFEbhDPm~tgWYsdVV2IojCpKKS6WuEhbwJA__",
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "a57385a7-17bf-4dc8-9737-d58d6eac7d39",
+        "text": "Urban",
+        "subText": null,
+        "image": "https://s3-alpha-sig.figma.com/img/4196/76dd/3b5dfae42b8a478a8a9429d04814c0ff?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=uKLvvDR-vuqpqqjmRt9S0w9VIgxNlfoA9FViKH-528ynIT3kkTQn0xasahQuu2rIA3lLHRUh2KTV16iBSjF8W-exO-09vWvMKRC67Gp37j1DxUlK17FUwZO0y~t9Q8kpQUSQZDKBwBSrk2Mr3uhQ9ZRB4TVTFEBo-DpxqTufgJ6cV8BtASPo4hFDDeCqdHx23hQdfTrfl51AQKuFnrho6yqCcqK4PtxZy~bO1kNi5YtoME-6eznI5zBz4xbZkCOgKy28Kus3lYAa0r6~tST3AHXkT9OoOzunamzdxsHgQNetpzCCvS0fg~rwkWnXZn28oEuZPnukjtWa6r7yb~Te9g__",
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "9fa8f2c9-a108-4098-92c3-ef9d5db45570",
+        "text": "Sporty",
+        "subText": null,
+        "image": "https://s3-alpha-sig.figma.com/img/0d2e/61e1/be9e39311bba326ebf160c16b225e958?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=iF9yX~kyaNYLevrEgp10IS37w4I9OlMDQqz8iGZTlC02WDNiZokcJwcvJKiG~M4MaySGY9bzc6HLEym0iVmXgKkQN-2UMq2wXUXSxQLIvq1Ypbf5D7PPU0n6e2fsIrLzh7W-ZQYw0~HwFv2TQ55kPhx7h-khLdbOJbMfNWNYFO-1hCdVK8ken8EV6yxQQqJ60Py-P7mWESN3tjl3-N-W0g2ZKBO4E9kVHxQc2fPuR2RG1HXSKFMMVbyvMoOHK1T779YbUB45WI1lLg-LT~bbcLCSl3sPoQNSw53ytRJvBvY9JIqmeKmLO4GXZBGFIE4l4zpj4zPwKGBjdb3qm6jVuw__",
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "228cdd4c-92b2-4bd7-b9a2-7281d5f7cc5a",
+        "text": "Creative",
+        "subText": null,
+        "image": "https://s3-alpha-sig.figma.com/img/5ac6/6475/0aac505473f6440070959c366922c0f4?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Asoh4nqvJ3eVYTVsqgj6InVuQA~MEcFjYY25Ja4oJzX2JG846Ex~ArfWnHJZY6sKzzekigKqF-6CyLQWfzdL1PBsYOXb0phf7O5KFWvZhmzh0Njh3OZnCoAkAI68CGc69I8kAPZbrggQeGWGMypiL83cAZpfFeaJ28IAYbZRWXel1TXg3rsFN3~Qvbu10-PF7fRKy~Xp387LuWOYRyhffd1jg~I0IKwF-Go~q5gQFnuyFimucXN8Y0oZ3Kj5gsImV5D~ZG-Lqt4TgLqJj0BuUuy0qvY-5fMW-EwtdSwG3B7~P9vvkiKaamXOMb0~MTb1TY~DVdA3mDaI3C0Vvg14xg__",
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "8c64019e-b6c8-4bf1-8c86-1776735ab9da",
+        "text": "Funky Rock",
+        "subText": null,
+        "image": "https://s3-alpha-sig.figma.com/img/3b94/f0b1/62de1b3bda8195381bf188157eb053a1?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=Tw~CoqC3~KdqNddDDrGh4Tl5skY9ArC2JLeIbnDf~3RKvjmVvjLV9L0hgNMamh17YOjCcvjKBzwLoyJ0GG7ys-esgU-QQmoQ2A5-lD-YP7nI~QEh4~J6frheftQWxYgiooxFLFkTKNYBKMg165Pl7p0KYtWHI3nARI3UA-9MDMJI9cswMjsHYCm588RU9P-oub1y85g49DzSErhHUCXi8A~q2AFbkmCFjHnXOjard8ABgEY3R56~rUjykzZrjwX2CghRrddS4a4cFA~OqXquu5bW0pgMYvR1vJMSuIvEBh9gUC84ixMJ8AXpIVbnaXvp9va~kItnhbdIXQl~kSpwsA__",
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "0c297888-1eb3-4a44-b22c-27c248de86b8",
+        "text": "Preppy",
+        "subText": null,
+        "image": "https://s3-alpha-sig.figma.com/img/899b/6050/99f251df56bd0cdb104a4291af8b02e7?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=prBxQYHGYchPEPgoUH8I08CRa1M8d59SgQheMh-5WkyrbuYW-hDLvizxS7chD0ueEBinkUFPtntoOWd-g-XkEBf-pVb-2MQaiZajxUGqYW~Rev~kZIsrWeid4QkIj0yuoxPYtx4qIxm~Dm1aDjqXr78OuCGrVU~n66hve3djt4KF1GnESQGsiGd1qlVSZeiYJuGl3OUF~YGgyBFYYQIv3xKCDRT3W5Ok~ehOWnqJgiHZZDtynAo-RtvLfgwt00vVhirVN~QCChz2goAYldQRKrhDaLISbpN6OiRh8ytPlruE406j9O15yHyXQwHCvK86mZfq~IASrUiBIOL3oYyuAw__",
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "5c9b46c1-35f0-4d94-8bca-a2a22afcdeab",
+        "text": "Sexy",
+        "subText": null,
+        "image": "https://s3-alpha-sig.figma.com/img/251c/363f/9104ebb0e883748a7db51f2a3c1af71e?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=RX8h8dwLgtO-bq7JW6NhohHpmtaVtte~IVnvxWTXKojvHv-XfprV-y9wnSYd2YGC1IIF77Q3fuBzEu3pfu6y4ejn2reg5NN6iHieV9dMLY~QX2VOD-T9U9B6UXT6xAKKwt3lrRoGBLMEaamEOdgRl8AU7~7L5Rj2ns8hnRg~mS~kEsdwFiEE~jIVC~BAYint6C8sPFAwcO50pdzpFLHhUISGjFuBuKyKwVOeWQsigLYi8SUX6UFInoDbYqUdqTm447wsjLjNTI~Cdz3jDJgUSBPmGh6fHs1BDCo7QYUqCPnEBQ0zsEmw1qqsz6OovVgYkykkwzoahrDgpi1M7TPfnw__",
+        "color": null,
+        "isSelected": false
+      },
+      {
+        "id": "63727e37-42b8-4aef-b522-29cf6c3a9454",
+        "text": "I don't know'",
+        "subText": null,
+        "image": "https://s3-alpha-sig.figma.com/img/3661/c588/3fbef17592135596360808d17b6fdcf7?Expires=1741564800&Key-Pair-Id=APKAQ4GOSFWCW27IBOMQ&Signature=kVfyB2gqntZoZNq4nEz9BaMBVqCGMaOxVdcCXCWjkhlWGYR9qFpAhtDs-ARjDehnflieWv2p5M5Yo22fWodbqW6vQGeZO4RbwIeNxj~WmtUNxQ6M282Covpitx~oCBGc1bIDZBhB9zAAJ5vowPdC7CT8MERA42FMU2cxveGKGVqgAb7Io59ooAL1dHPtdBrmZg4qAlJh8GHHNGlx6FdzdMamG9tagdyQlzWrWi4HGa1fF3EWyM9wkidIvSfB26M4wauX1qDKKAWU1ZfgjXGRRwxgwRhoL8JbWXozh0fZh5ilPgJUDCFQ-4X7uJcz7vsKhOaz7zy6TlFeojxGA9fhDw__",
+        "color": null,
+        "isSelected": false
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "text": "Choose favourite colors",
+    "subText": null,
+    "screenName": "Style preferences",
+    "minSelection": 1,
+    "multiSelect": true,
+    "numberOfColumns": 3,
+    "options": [
+      {
+        "id": "f5246dd6-fef9-426c-b2e4-2a66f50249e4",
+        "text": "Light Blue",
+        "subText": null,
+        "image": null,
+        "color": "#ABE2FF",
+        "isSelected": false
+      },
+      {
+        "id": "cbb65c7a-6071-4a85-b348-2a3527286855",
+        "text": "Blue",
+        "subText": null,
+        "image": null,
+        "color": "#5EA8FF",
+        "isSelected": false
+      },
+      {
+        "id": "06bf29b6-09db-47d4-bc7f-99a78f97ac81",
+        "text": "Indigo",
+        "subText": null,
+        "image": null,
+        "color": "#2237A8",
+        "isSelected": false
+      },
+      {
+        "id": "f83f03d8-bf47-4fa1-a325-cf35559d544f",
+        "text": "Turquoise",
+        "subText": null,
+        "image": null,
+        "color": "#69D1ED",
+        "isSelected": false
+      },
+      {
+        "id": "e3c74e51-bf78-4414-8fa9-5b69a8d151cc",
+        "text": "Mint",
+        "subText": null,
+        "image": null,
+        "color": "#87DBC8",
+        "isSelected": false
+      },
+      {
+        "id": "c3224900-32ad-4ff5-81a8-803c9642fd51",
+        "text": "Olive",
+        "subText": null,
+        "image": null,
+        "color": "#A8AD49",
+        "isSelected": false
+      },
+      {
+        "id": "e85db7e4-293d-47ea-9c96-96fe8e5ddbf2",
+        "text": "Green",
+        "subText": null,
+        "image": null,
+        "color": "#29AD3E",
+        "isSelected": false
+      },
+      {
+        "id": "f9afcded-7fce-4ef7-924b-df25de564d75",
+        "text": "Emerald",
+        "subText": null,
+        "image": null,
+        "color": "#098052",
+        "isSelected": false
+      },
+      {
+        "id": "ebdce593-1c4c-4c45-a6dd-5576ea8403d2",
+        "text": "Yellow",
+        "subText": null,
+        "image": null,
+        "color": "#EDDD47",
+        "isSelected": false
+      },
+      {
+        "id": "f056c6fe-206c-4c2e-bfc8-dc97f7368d41",
+        "text": "Beige",
+        "subText": null,
+        "image": null,
+        "color": "#CA9675",
+        "isSelected": false
+      },
+      {
+        "id": "6071fc0e-7e94-4f74-b2a4-d9b5e31509b5",
+        "text": "Orange",
+        "subText": null,
+        "image": null,
+        "color": "#CD6A09",
+        "isSelected": false
+      },
+      {
+        "id": "7fd836bc-0289-48e7-841a-281c4791181a",
+        "text": "Brown",
+        "subText": null,
+        "image": null,
+        "color": "#7F4B03",
+        "isSelected": false
+      },
+      {
+        "id": "5361977c-6f6c-481f-80ba-a4df67bd57af",
+        "text": "Pink",
+        "subText": null,
+        "image": null,
+        "color": "#FF86B8",
+        "isSelected": false
+      },
+      {
+        "id": "0ebd7d28-9b6b-47ca-bf36-0d9dfb88a837",
+        "text": "Magenta",
+        "subText": null,
+        "image": null,
+        "color": "#CF236E",
+        "isSelected": false
+      },
+      {
+        "id": "cf361336-5f16-40f5-b168-f760f0ed0b4f",
+        "text": "Red",
+        "subText": null,
+        "image": null,
+        "color": "#D31E1E",
+        "isSelected": false
+      },
+      {
+        "id": "60d740ed-3dfc-4fb1-8ed3-b8ba64023502",
+        "text": "Lavender",
+        "subText": null,
+        "image": null,
+        "color": "#DCAAF5",
+        "isSelected": false
+      },
+      {
+        "id": "0530eb1c-c4e3-4a8a-a50d-9f02a4f2d5b2",
+        "text": "White",
+        "subText": null,
+        "image": null,
+        "color": "#FFFFFF",
+        "isSelected": false
+      },
+      {
+        "id": "74273e58-a0f9-44bb-aad9-8fe65bffcb1c",
+        "text": "Gray",
+        "subText": null,
+        "image": null,
+        "color": "#9B9B9B",
+        "isSelected": false
+      },
+      {
+        "id": "769c18d1-5da6-44e5-bff7-0bd091c942f3",
+        "text": "Black",
+        "subText": null,
+        "image": null,
+        "color": "#000000",
+        "isSelected": false
+      },
+      {
+        "id": "6a67d3da-cf98-41bb-aac7-059b3fd4e887",
+        "text": "Purple",
+        "subText": null,
+        "image": null,
+        "color": "#7F22BE",
+        "isSelected": false
+      }
+    ]
+  }
+]
