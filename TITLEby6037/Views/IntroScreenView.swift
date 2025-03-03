@@ -11,39 +11,41 @@ struct IntroScreenView: View {
     @EnvironmentObject var store: AppStore
     
     var body: some View {
-        ZStack {
-            Image("introImage")
-                .resizable()
-                .scaledToFill()
-                .ignoresSafeArea()
-            LinearGradient(
-                gradient: Gradient(colors: [
-                    Color.black.opacity(0.0),
-                    Color.black.opacity(1.0)
-                ]),
-                startPoint: .top,
-                endPoint: .bottom
+        VStack(alignment: .leading, spacing: 40){
+            Spacer()
+            Text("Online Personal\nStyling.\nOutfits for\nEvery Woman.")
+                .font(.custom("KaiseiTokumin-Regular", size: 32))
+                .foregroundColor(.white)
+                .multilineTextAlignment(.leading)
+                .frame(maxWidth: .infinity, alignment: .leading)
+            ReusableButton(
+                text: "CONTINUE",
+                action: {
+                    store.dispatch(action: .goToNextScreen)
+                },
+                foregroundColor: .black,
+                backgroundColor: .white,
+                size: 14,
+                cornerRadius: 0
             )
-            .ignoresSafeArea()
-            VStack(alignment: .leading, spacing: 40){
-                Spacer()
-                Text("Online Personal\nStyling.\nOutfits for\nEvery Woman.")
-                    .font(.custom("KaiseiTokumin-Regular", size: 32))
-                    .foregroundColor(.white)
-                    .multilineTextAlignment(.leading)
-                    .frame(maxWidth: .infinity, alignment: .leading)
-                ReusableButton(
-                    text: "CONTINUE",
-                    action: {
-                        store.dispatch(action: .goToNextScreen)
-                    },
-                    foregroundColor: .black,
-                    backgroundColor: .white,
-                    size: 14,
-                    cornerRadius: 0
-                )
-                .padding(.bottom, 40)
-            }.padding()
-        }
+            .padding(.bottom, 40)
+        }.padding()
+            .background(
+                ZStack {
+                    Image("introImage")
+                        .resizable()
+                        .scaledToFill()
+                        .ignoresSafeArea()
+                    LinearGradient(
+                        gradient: Gradient(colors: [
+                            Color.black.opacity(0.0),
+                            Color.black.opacity(1.0)
+                        ]),
+                        startPoint: .top,
+                        endPoint: .bottom
+                    )
+                    .ignoresSafeArea()
+                }
+            )
     }
 }
